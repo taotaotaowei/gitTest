@@ -7,3 +7,8 @@
 6. 继续修改
 7. 新增一个分支，master分支也修改了
 8. add 8
+9. 123412341234
+10. other change
+11. local change
+
+12. test stash
